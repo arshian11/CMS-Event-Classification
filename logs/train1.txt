@@ -1,0 +1,46 @@
+47.1s 1 Data Loaded
+64.5s 2 Data Augmented
+64.5s 3 Data Split into Train and Test
+65.0s 4 Model Cretaed
+548.2s 5 Epoch 1, Loss: 0.6564
+1026.6s 6 Epoch 2, Loss: 0.5915
+1515.5s 7 Epoch 3, Loss: 0.5778
+2000.9s 8 Epoch 4, Loss: 0.5726
+2486.4s 9 Epoch 5, Loss: 0.5688
+2968.5s 10 Epoch 6, Loss: 0.5665
+3456.7s 11 Epoch 7, Loss: 0.5653
+3945.7s 12 Epoch 8, Loss: 0.5634
+4425.1s 13 Epoch 9, Loss: 0.5628
+4907.5s 14 Epoch 10, Loss: 0.5619
+5389.7s 15 Epoch 11, Loss: 0.5609
+5873.5s 16 Epoch 12, Loss: 0.5606
+6351.8s 17 Epoch 13, Loss: 0.5601
+6825.3s 18 Epoch 14, Loss: 0.5596
+7300.3s 19 Epoch 15, Loss: 0.5591
+7771.5s 20 Epoch 16, Loss: 0.5585
+8244.4s 21 Epoch 17, Loss: 0.5582
+8716.3s 22 Epoch 18, Loss: 0.5580
+9188.7s 23 Epoch 19, Loss: 0.5576
+9674.1s 24 Epoch 20, Loss: 0.5569
+10156.9s 25 Epoch 21, Loss: 0.5568
+10633.7s 26 Epoch 22, Loss: 0.5562
+11118.1s 27 Epoch 23, Loss: 0.5559
+11598.5s 28 Epoch 24, Loss: 0.5557
+12071.8s 29 Epoch 25, Loss: 0.5553
+12550.0s 30 Epoch 26, Loss: 0.5548
+13033.2s 31 Epoch 27, Loss: 0.5546
+13511.9s 32 Epoch 28, Loss: 0.5542
+13988.5s 33 Epoch 29, Loss: 0.5541
+14467.6s 34 Epoch 30, Loss: 0.5542
+14467.6s 35 Training Finished
+14556.5s 36 Accuracy: 72.19%
+14560.7s 37 /usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+14560.7s 38 warn(
+14560.8s 39 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+14561.1s 40 [NbConvertApp] Writing 41775 bytes to __notebook__.ipynb
+14562.5s 41 /usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+14562.5s 42 warn(
+14562.6s 43 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+14563.4s 44 [NbConvertApp] Support files will be in __results___files/
+14563.4s 45 [NbConvertApp] Making directory __results___files
+14563.4s 46 [NbConvertApp] Writing 306193 bytes to __results__.html
