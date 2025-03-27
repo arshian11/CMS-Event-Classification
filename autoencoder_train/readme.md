@@ -25,4 +25,9 @@ Model Created from scratch
   <br>
 </div>
 
+### AUC Score: 0.7596
+### Precision: 0.6843
+### Recall: 0.7755
+### F1 Score: 0.7271
+### Accuracy: 0.6926
   
