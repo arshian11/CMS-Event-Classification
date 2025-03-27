@@ -20,4 +20,9 @@ Model Created from scratch
 - Linear Layer: Transforms from 64 dimensions → 1 dimensions
 - Sigmoid Binary Classification Activation
 
+<div align="center">
+  <img src="https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/auto_encode_v1.png" alt="Result Images" width="600">
+  <br>
+</div>
+
   
