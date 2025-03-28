@@ -81,3 +81,11 @@ Model Architecture
 ### Recall: 0.7420
 ### F1 Score: 0.7240
 ### Accuracy: 0.7013
+
+# Version 3
+Ensemble of the previous two versions 1 and 2
+
+<div align="center">
+  <img src="" alt="Result Images" width="700">
+  <br>
+</div>
