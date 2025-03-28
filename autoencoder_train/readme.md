@@ -86,6 +86,9 @@ Model Architecture
 Ensemble of the previous two versions 1 and 2
 
 <div align="center">
-  <img src="" alt="Result Images" width="700">
+  <img src="https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/auto_encode_roc_auc_v3.png" alt="ROC-AUC Curve" width="400">
+  <img src="https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/auto_encode_con_mat_v3.png" alt="Confusion Matrix" width="400">
   <br>
 </div>
+
+
