@@ -47,8 +47,10 @@ Classification Loss : Binary Cross Entropy (BCE)<br>
 Taking the Model with d_mode=256,6 encoder layers,8 attention heads and more deeper Decoder and Classifier in addition with Input Embedding FCC
 | Modifications | Accuracy(%) | AUC Score |
 | --- | --- | ---| 
-|Focal Loss for Classsification|57.45|0.7496|
 |Decoder Skip Connection|52.80|0.5000|
 |More Depth d_model=512,Layers=12|52.80|0.5000|
+|Focal Loss for Classsification|57.45|0.7496|
+|Stochastic Depth (p=0.1)|70.05|0.7703|
 |Positional Encoding|70.48|0.7743|
+|Positional Encoding + Focal Loss|59.15|0.7613|
 
