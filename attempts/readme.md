@@ -58,3 +58,10 @@ Model: ResNet15 Architetcure with residual blocks
 Optimizer : AdamW (lr=0.001)
 ![](https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/con_mat_7.png)<br>
 ### Accuracy: 73.33%
+
+# Train Attempt 7
+Mode:  ResNet15 Architetcure with residual blocks<br>
+Passed two channel images seperately and combined later
+![](https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/con_mat_8.png)<br>
+### Accuracy: 0.9861
+### AUC Score: 0.9990
