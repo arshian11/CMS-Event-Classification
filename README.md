@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/GSoC-icon-192.png" alt="GSOC Image" width="200">
   <img src="https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/ml4sci_logo_angled.png" alt="ML4SCi Image" width="200">
+  <img src="https://ml4sci.org/images/CMS-logo.png" alt="ML4SCi Image" width="200">
   <br>
 </div>
 
@@ -63,3 +64,8 @@ Taking the Model with d_mode=256, 6 encoder layers, 8 attention heads and more d
 |Positional Encoding + Focal Loss|59.15|0.7613|
 |Relative Positional Encoding|70.43|0.7740|
 
+Best Model Performance:
+<div align="center">
+  <img src="https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/pos_encod_metric.png" alt="Result Image" width="700">
+  <br>
+</div>
