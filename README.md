@@ -1,10 +1,10 @@
 # Event Classification With Masked Transformer Autoencoders
 
-## Common Task 1. Electron/photon classification:
+## :lock: Common Task 1. Electron/photon classification:
 Dataset Description: 32x32 matrices with two channels: hit energy and time for two types of
 particles, electrons and photons, hitting the detector.
 
-## Approach:
+## :key: Approach:
 ResNet15 Model was used as the base model
 
 ### Model Performance Comparison
@@ -29,10 +29,11 @@ Best Model Performance:
 
 For detailed information view the attempts section
 
-## Specific Tasks 2a
+## :lock: Specific Tasks 2a
 - To train a Transformer Autoencoder model of our choice on the dataset using only the first 21 features and only the first 1.1million events. The last 100k items are to be used for test set.
 - To train a decoder of our choice which uses the latent space outputs of the Transformer encoder layer as inputs.
 
+## :key: Approach:
 Reconstruction Loss : Mean Sqaured Error (MSE)<br>
 Classification Loss : Binary Cross Entropy (BCE)<br>
 
