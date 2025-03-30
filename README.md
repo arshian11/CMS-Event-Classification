@@ -1,7 +1,7 @@
 # Event Classification With Masked Transformer Autoencoders
 
 ## Common Task 1. Electron/photon classification:
-Description: 32x32 matrices with two channels: hit energy and time for two types of
+Dataset Description: 32x32 matrices with two channels: hit energy and time for two types of
 particles, electrons and photons, hitting the detector.
 
 ## Approach:
@@ -28,3 +28,13 @@ Best Model Performance
 </div>
 
 For detailed information view the attempts section
+
+## Specific Tasks 2a
+- To train a Transformer Autoencoder model of our choice on the dataset using only the first 21 features and only the first 1.1million events. The last 100k items are to be used for test set.
+- To train a decoder of our choice which uses the latent space outputs of the Transformer encoder layer as inputs.
+
+S.No. | Model | Accuracy(%) | AUC Score |
+| --- | --- | --- | ---| 
+|1|d_mode=64,2 encoder layers,4 attention heads|69.26| 0.7596|
+|2|d_mode=256,6 encoder layers,4 attention heads|70.13| 0.7707|
+|3|Ensemble of 1 & 2|70.98|0.782|
