@@ -53,4 +53,5 @@ Taking the Model with d_mode=256,6 encoder layers,8 attention heads and more dee
 |Stochastic Depth (p=0.1)|70.05|0.7703|
 |Positional Encoding|70.48|0.7743|
 |Positional Encoding + Focal Loss|59.15|0.7613|
+|Relative Positional Encoding|70.43|0.7740|
 
