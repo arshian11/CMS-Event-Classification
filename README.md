@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/GSoC-icon-192.png" alt="GSOC Image" width="200">
+  <img src="https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/ml4sci_logo_angled.png" alt="ML4SCi Image" width="200">
+  <br>
+</div>
+
 # Event Classification With Masked Transformer Autoencoders
 
 ## :lock: Common Task 1. Electron/photon classification:
