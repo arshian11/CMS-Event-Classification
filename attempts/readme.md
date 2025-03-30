@@ -52,3 +52,9 @@ Scheduler : CosineAnnealingLR (T_max=40)<br>
 Confusion Matrix:<br>
 ![](https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/con_mat_6.png)<br>
 ### Accuracy : 72.25%
+
+# Train Attempt 7
+Model: ResNet15 Architetcure with residual blocks
+Optimizer : AdamW (lr=0.001)
+![](https://github.com/arshian11/CMS-Event-Classification/blob/main/assets/con_mat_7.png)<br>
+### Accuracy: 73.33%
