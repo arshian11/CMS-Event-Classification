@@ -35,7 +35,8 @@ Best Model Performance:
   <br>
 </div>
 
-For detailed information view the attempts section
+For detailed information view the attempts section.<br>
+The [script](https://github.com/arshian11/CMS-Event-Classification/blob/main/attempts/Train%20Attempt%20(8).ipynb) can be accessed here for testing.<br>
 
 ## :lock: Specific Tasks 2a
 - To train a Transformer Autoencoder model of our choice on the dataset using only the first 21 features and only the first 1.1million events. The last 100k items are to be used for test set.
@@ -63,6 +64,8 @@ Taking the Model with d_mode=256, 6 encoder layers, 8 attention heads and more d
 |Positional Encoding|70.48|0.7743|
 |Positional Encoding + Focal Loss|59.15|0.7613|
 |Relative Positional Encoding|70.43|0.7740|
+
+The [script](https://github.com/arshian11/CMS-Event-Classification/blob/main/autoencoder_train/cms-autoencoder_v4.ipynb) can be accessed here for testing.<br>
 
 Best Model Performance:
 <div align="center">
